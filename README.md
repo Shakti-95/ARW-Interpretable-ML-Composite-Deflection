@@ -87,7 +87,7 @@ Categorical variables (configurations, loading types, boundary conditions) were 
 - **Superior Model:** The **eXtreme Gradient Boosting Regression (XGBR)** model demonstrated superior performance, achieving the highest $R^2$ (0.999) and lowest MAE (0.010) and RMSE (0.013) on the test dataset.
 - **Key Influential Factors (SHAP & LIME):**
   - **Boundary Conditions (Constraint_CCCC):** Most influential factor. Clamped boundary conditions significantly reduce predicted deflection.
-  - **Ratio of Elastic Moduli (*$E_1/E_2$*):** Second most critical factor. Larger ratios (stiffer material distribution) lead to reduced deflection.
+  - **Ratio of Elastic Moduli ($E_1/E_2$):** Second most critical factor. Larger ratios (stiffer material distribution) lead to reduced deflection.
   - **Aspect Ratio (*a/h*) and Loading Type (Loading Type_SSL):** Showed moderate influence.
   - **Configuration Encodings and Number of Layers:** Exhibited minimal global impact on predictions.
 
