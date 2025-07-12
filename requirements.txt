@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+scikit-optimize
+shap
+lime
+xgboost
+tensorflow # Required for Keras Neural Network
+keras # If you're using a standalone Keras installation, otherwise tensorflow is usually sufficient

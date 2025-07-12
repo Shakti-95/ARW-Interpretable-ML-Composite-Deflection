@@ -1,0 +1,7 @@
+Model,Best Params,Train R2,Train MAE,Train RMSE,Test R2,Test MAE,Test RMSE
+Linear,{},0.889,0.105,0.121,0.881,0.104,0.12
+SVR,"{'C': 8.747393367080921, 'epsilon': 0.01, 'kernel': 'rbf'}",0.999,0.004,0.01,0.996,0.015,0.021
+GBR,"{'n_estimators': 8, 'loss': 'squared_error', 'learning_rate': 0.9, 'alpha': 0.12423045125497692, 'max_depth': 8}",1.0,0.003,0.007,0.998,0.01,0.014
+RFR,"{'n_estimators': 5, 'max_depth': 6}",0.997,0.014,0.02,0.996,0.015,0.021
+XGBR,"{'n_estimators': 10, 'learning_rate': 0.7225508524324976, 'max_depth': 10}",1.0,0.004,0.007,0.999,0.01,0.013
+NeuralNetwork,"{'hidden_layers': 1, 'units': 128, 'activation': 'tanh', 'learning_rate': 0.007944812463781706}",0.999,0.01,0.014,0.998,0.012,0.016
