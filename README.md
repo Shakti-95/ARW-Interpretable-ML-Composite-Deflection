@@ -1,11 +1,40 @@
 # **Automated Regression Workflow for Interpretable Deflection Prediction in Bio-Inspired Laminated Composite Plates**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15927988.svg)](https://doi.org/10.5281/zenodo.15927988)
+
 This repository contains the code and data associated with the research paper:
 
 "**Automated Regression Workflow for Interpretable Deflection Prediction in Bio-Inspired Laminated Composite Plates**"
 Shakti P. Padhy, Shubham Saurabh, Raj Kiran, Nhon Nguyen-Thanh
 
 _This paper is currently under revision for publication in Frontiers of Structural and Civil Engineering._
+
+## **Cite us**
+
+If you used the database or the codes for your research, please consider citing our GitHub repository:
+
+### GitHub repository citation
+
+```
+@software{padhy_2025_15927988,
+  author       = {Padhy, Shakti Prasad and
+                  Saurabh, Shubham and
+                  Choudhary, Krishana and
+                  Kiran, Raj and
+                  Nguyen-Thanh, Nhon},
+  title        = {{Data and codes for Automated Regression Workflow
+                   for Interpretable Deflection Prediction in Bio-
+                   Inspired Laminated Composite Plates: Data and
+                   codes release v1.0.0
+                  }},
+  month        = jul,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.15927988},
+  url          = {[https://doi.org/10.5281/zenodo.15927988](https://doi.org/10.5281/zenodo.15927988)},
+}
+```
 
 ## **Keywords**
 
