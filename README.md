@@ -7,7 +7,7 @@ This repository contains the code and data associated with the research paper:
 "**Automated Regression Workflow for Interpretable Deflection Prediction in Bio-Inspired Laminated Composite Plates**"
 Shakti P. Padhy, Shubham Saurabh, Raj Kiran, Nhon Nguyen-Thanh
 
-_This paper is currently under revision for publication in Frontiers of Structural and Civil Engineering._
+_This paper is accepted for publication and currently in the process of publishing online in Frontiers of Structural and Civil Engineering._
 
 ## **Cite us**
 
