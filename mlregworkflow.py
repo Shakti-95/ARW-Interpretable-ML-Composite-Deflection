@@ -1,3 +1,31 @@
+# ---
+# Automated Regression Workflow with single objective Bayesian Hyperparameter Optimization
+#
+# Author: Shakti P. Padhy
+# Date: Jul 15 2025
+#
+# Description:
+# This script provides a comprehensive, end-to-end framework for training, optimizing,
+# and evaluating multiple regression models. It uses scikit-optimize (`gp_minimize`)
+# to perform single-objective Bayesian Optimization, systematically searching for the
+# hyperparameters that maximize the R-squared score.
+#
+# Workflow Steps:
+# 1.  Data Scaling: Features and target values are standardized using StandardScaler
+#     to prepare them for modeling.
+# 2.  Hyperparameter Optimization: A Bayesian Optimization process (gp_minimize) is
+#     used to efficiently find the optimal set of hyperparameters for each model.
+# 3.  Model Training: After optimization, a final model is trained on the full
+#     training dataset using the best hyperparameters found.
+# 4.  Comprehensive Evaluation: The final model is evaluated on both training and
+#     testing data using R-squared (R²), Mean Absolute Error (MAE), and Root Mean
+#     Squared Error (RMSE).
+# 5.  Artifact Generation & Saving: All important outputs are saved, including:
+#     - The trained neural network model (.h5 file).
+#     - Y-Y plots for visualizing model performance (.png files).
+#     - A final summary of all model results in a `results.csv` file.
+# ---
+
 import os
 import numpy as np
 import pandas as pd
