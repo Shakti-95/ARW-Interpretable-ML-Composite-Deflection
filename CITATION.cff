@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Automated Regression Workflow for Interpretable Deflection
+  Prediction in Bio-Inspired Laminated Composite Plates
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Shakti Prasad
+    family-names: Padhy
+    affiliation: Texas A&M University
+    orcid: 'https://orcid.org/0000-0003-0206-8351'
+  - given-names: Shubham
+    family-names: Saurabh
+    affiliation: Indian Institute of Technology Mandi
+  - given-names: Krishna
+    family-names: Choudhary
+    affiliation: Indian Institute of Technology Mandi
+  - given-names: Raj
+    family-names: Kiran
+    affiliation: Indian Institute of Technology Mandi
+  - given-names: Nhon
+    family-names: Nguyen-Thanh
+    affiliation: Ton Duc Thang University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15927988
+repository-code: >-
+  https://github.com/Shakti-95/ARW-Interpretable-ML-Composite-Deflection
+license: MIT
+version: 1.0.0
+date-released: '2025-07-15'
