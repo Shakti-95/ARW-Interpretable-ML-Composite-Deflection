@@ -13,7 +13,7 @@ _This paper is published online in Frontiers of Structural and Civil Engineering
 
 ## **Cite us**
 
-If you used the database or the codes for your research, please consider citing our GitHub repository:
+If you used the database or the codes for your research, please consider citing our GitHub repository and our paper:
 
 ### GitHub repository citation
 
@@ -36,6 +36,25 @@ If you used the database or the codes for your research, please consider citing 
   doi          = {10.5281/zenodo.15927988},
   url          = {[https://doi.org/10.5281/zenodo.15927988](https://doi.org/10.5281/zenodo.15927988)},
 }
+```
+
+### Research paper citation
+```
+@article{Padhy_Saurabh_Choudhary_Kiran_Nguyen-Thanh_2025,
+  author       = {Padhy, Shakti Prasad and
+                  Saurabh, Shubham and
+                  Choudhary, Krishana and
+                  Kiran, Raj and
+                  Nguyen-Thanh, Nhon},
+  title        = {{Automated regression workflow for
+                   interpretable deflection prediction in
+                   bio-inspired laminated composite plates
+                  }},
+  journal      = {Frontiers of Structural and Civil Engineering},
+  year         = {2025},
+  mon          = {Oct},
+  doi          = {10.1007/s11709-025-1238-8},
+} 
 ```
 
 ## **Keywords**
