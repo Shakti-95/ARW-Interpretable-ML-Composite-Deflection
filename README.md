@@ -1,7 +1,8 @@
 # **Automated Regression Workflow for Interpretable Deflection Prediction in Bio-Inspired Laminated Composite Plates**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15927988.svg)](https://doi.org/10.5281/zenodo.15927988)
-[![Research paper]](https://doi.org/10.1007/s11709-025-1238-8)
+
+[Link to Research paper](https://doi.org/10.1007/s11709-025-1238-8)
 
 This repository contains the code and data associated with the research paper:
 
